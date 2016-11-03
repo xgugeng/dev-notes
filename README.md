@@ -1,6 +1,6 @@
 # 目录
 
-# 内功修炼
+## 内功修炼
 
 [《程序员的自我修养》](perspective/self-load/README.md)
 
