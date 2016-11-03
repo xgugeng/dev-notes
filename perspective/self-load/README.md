@@ -9,3 +9,6 @@
 [3. 目标文件里有什么](3. 目标文件里有什么.md)
 
 [4. 静态链接](4. 静态链接.md)
+
+[5. Windows PE/COFF](5. Windows PE/COFF.md)
+
