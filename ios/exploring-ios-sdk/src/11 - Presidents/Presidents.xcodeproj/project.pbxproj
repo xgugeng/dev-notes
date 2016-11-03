@@ -1,0 +1,496 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		04290417181659C4001170EB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04290416181659C4001170EB /* Foundation.framework */; };
+		04290419181659C4001170EB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04290418181659C4001170EB /* CoreGraphics.framework */; };
+		0429041B181659C4001170EB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0429041A181659C4001170EB /* UIKit.framework */; };
+		04290421181659C4001170EB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0429041F181659C4001170EB /* InfoPlist.strings */; };
+		04290423181659C4001170EB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 04290422181659C4001170EB /* main.m */; };
+		04290427181659C4001170EB /* BIDAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 04290426181659C4001170EB /* BIDAppDelegate.m */; };
+		0429042A181659C4001170EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04290428181659C4001170EB /* Main.storyboard */; };
+		0429042D181659C4001170EB /* BIDMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0429042C181659C4001170EB /* BIDMasterViewController.m */; };
+		04290430181659C4001170EB /* BIDDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0429042F181659C4001170EB /* BIDDetailViewController.m */; };
+		04290432181659C4001170EB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04290431181659C4001170EB /* Images.xcassets */; };
+		04290439181659C4001170EB /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04290438181659C4001170EB /* XCTest.framework */; };
+		0429043A181659C4001170EB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04290416181659C4001170EB /* Foundation.framework */; };
+		0429043B181659C4001170EB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0429041A181659C4001170EB /* UIKit.framework */; };
+		04290443181659C4001170EB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 04290441181659C4001170EB /* InfoPlist.strings */; };
+		04290445181659C4001170EB /* PresidentsTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 04290444181659C4001170EB /* PresidentsTests.m */; };
+		042919121816BFCC00B92F2E /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 042919111816BFCC00B92F2E /* PresidentList.plist */; };
+		04532CFB1817AF2F001AE3FF /* BIDLanguageListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 04532CFA1817AF2F001AE3FF /* BIDLanguageListController.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		0429043C181659C4001170EB /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0429040B181659C3001170EB /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 04290412181659C3001170EB;
+			remoteInfo = Presidents;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		04290413181659C3001170EB /* Presidents.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Presidents.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04290416181659C4001170EB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		04290418181659C4001170EB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		0429041A181659C4001170EB /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		0429041E181659C4001170EB /* Presidents-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Presidents-Info.plist"; sourceTree = "<group>"; };
+		04290420181659C4001170EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04290422181659C4001170EB /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		04290424181659C4001170EB /* Presidents-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Presidents-Prefix.pch"; sourceTree = "<group>"; };
+		04290425181659C4001170EB /* BIDAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDAppDelegate.h; sourceTree = "<group>"; };
+		04290426181659C4001170EB /* BIDAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDAppDelegate.m; sourceTree = "<group>"; };
+		04290429181659C4001170EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0429042B181659C4001170EB /* BIDMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDMasterViewController.h; sourceTree = "<group>"; };
+		0429042C181659C4001170EB /* BIDMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDMasterViewController.m; sourceTree = "<group>"; };
+		0429042E181659C4001170EB /* BIDDetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BIDDetailViewController.h; sourceTree = "<group>"; };
+		0429042F181659C4001170EB /* BIDDetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BIDDetailViewController.m; sourceTree = "<group>"; };
+		04290431181659C4001170EB /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		04290437181659C4001170EB /* PresidentsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PresidentsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		04290438181659C4001170EB /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		04290440181659C4001170EB /* PresidentsTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "PresidentsTests-Info.plist"; sourceTree = "<group>"; };
+		04290442181659C4001170EB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		04290444181659C4001170EB /* PresidentsTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PresidentsTests.m; sourceTree = "<group>"; };
+		042919111816BFCC00B92F2E /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = PresidentList.plist; sourceTree = "<group>"; };
+		04532CF91817AF2F001AE3FF /* BIDLanguageListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BIDLanguageListController.h; sourceTree = "<group>"; };
+		04532CFA1817AF2F001AE3FF /* BIDLanguageListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BIDLanguageListController.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		04290410181659C3001170EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04290419181659C4001170EB /* CoreGraphics.framework in Frameworks */,
+				0429041B181659C4001170EB /* UIKit.framework in Frameworks */,
+				04290417181659C4001170EB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04290434181659C4001170EB /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04290439181659C4001170EB /* XCTest.framework in Frameworks */,
+				0429043B181659C4001170EB /* UIKit.framework in Frameworks */,
+				0429043A181659C4001170EB /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0429040A181659C3001170EB = {
+			isa = PBXGroup;
+			children = (
+				0429041C181659C4001170EB /* Presidents */,
+				0429043E181659C4001170EB /* PresidentsTests */,
+				04290415181659C4001170EB /* Frameworks */,
+				04290414181659C3001170EB /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		04290414181659C3001170EB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				04290413181659C3001170EB /* Presidents.app */,
+				04290437181659C4001170EB /* PresidentsTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		04290415181659C4001170EB /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04290416181659C4001170EB /* Foundation.framework */,
+				04290418181659C4001170EB /* CoreGraphics.framework */,
+				0429041A181659C4001170EB /* UIKit.framework */,
+				04290438181659C4001170EB /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0429041C181659C4001170EB /* Presidents */ = {
+			isa = PBXGroup;
+			children = (
+				042919111816BFCC00B92F2E /* PresidentList.plist */,
+				04290425181659C4001170EB /* BIDAppDelegate.h */,
+				04290426181659C4001170EB /* BIDAppDelegate.m */,
+				04290428181659C4001170EB /* Main.storyboard */,
+				04532CF91817AF2F001AE3FF /* BIDLanguageListController.h */,
+				04532CFA1817AF2F001AE3FF /* BIDLanguageListController.m */,
+				0429042B181659C4001170EB /* BIDMasterViewController.h */,
+				0429042C181659C4001170EB /* BIDMasterViewController.m */,
+				0429042E181659C4001170EB /* BIDDetailViewController.h */,
+				0429042F181659C4001170EB /* BIDDetailViewController.m */,
+				04290431181659C4001170EB /* Images.xcassets */,
+				0429041D181659C4001170EB /* Supporting Files */,
+			);
+			path = Presidents;
+			sourceTree = "<group>";
+		};
+		0429041D181659C4001170EB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				0429041E181659C4001170EB /* Presidents-Info.plist */,
+				0429041F181659C4001170EB /* InfoPlist.strings */,
+				04290422181659C4001170EB /* main.m */,
+				04290424181659C4001170EB /* Presidents-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0429043E181659C4001170EB /* PresidentsTests */ = {
+			isa = PBXGroup;
+			children = (
+				04290444181659C4001170EB /* PresidentsTests.m */,
+				0429043F181659C4001170EB /* Supporting Files */,
+			);
+			path = PresidentsTests;
+			sourceTree = "<group>";
+		};
+		0429043F181659C4001170EB /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				04290440181659C4001170EB /* PresidentsTests-Info.plist */,
+				04290441181659C4001170EB /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		04290412181659C3001170EB /* Presidents */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 04290448181659C4001170EB /* Build configuration list for PBXNativeTarget "Presidents" */;
+			buildPhases = (
+				0429040F181659C3001170EB /* Sources */,
+				04290410181659C3001170EB /* Frameworks */,
+				04290411181659C3001170EB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Presidents;
+			productName = Presidents;
+			productReference = 04290413181659C3001170EB /* Presidents.app */;
+			productType = "com.apple.product-type.application";
+		};
+		04290436181659C4001170EB /* PresidentsTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0429044B181659C4001170EB /* Build configuration list for PBXNativeTarget "PresidentsTests" */;
+			buildPhases = (
+				04290433181659C4001170EB /* Sources */,
+				04290434181659C4001170EB /* Frameworks */,
+				04290435181659C4001170EB /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				0429043D181659C4001170EB /* PBXTargetDependency */,
+			);
+			name = PresidentsTests;
+			productName = PresidentsTests;
+			productReference = 04290437181659C4001170EB /* PresidentsTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0429040B181659C3001170EB /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = BID;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = Apress;
+				TargetAttributes = {
+					04290436181659C4001170EB = {
+						TestTargetID = 04290412181659C3001170EB;
+					};
+				};
+			};
+			buildConfigurationList = 0429040E181659C3001170EB /* Build configuration list for PBXProject "Presidents" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 0429040A181659C3001170EB;
+			productRefGroup = 04290414181659C3001170EB /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				04290412181659C3001170EB /* Presidents */,
+				04290436181659C4001170EB /* PresidentsTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		04290411181659C3001170EB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04290432181659C4001170EB /* Images.xcassets in Resources */,
+				04290421181659C4001170EB /* InfoPlist.strings in Resources */,
+				0429042A181659C4001170EB /* Main.storyboard in Resources */,
+				042919121816BFCC00B92F2E /* PresidentList.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04290435181659C4001170EB /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04290443181659C4001170EB /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		0429040F181659C3001170EB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0429042D181659C4001170EB /* BIDMasterViewController.m in Sources */,
+				04290430181659C4001170EB /* BIDDetailViewController.m in Sources */,
+				04290427181659C4001170EB /* BIDAppDelegate.m in Sources */,
+				04290423181659C4001170EB /* main.m in Sources */,
+				04532CFB1817AF2F001AE3FF /* BIDLanguageListController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		04290433181659C4001170EB /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				04290445181659C4001170EB /* PresidentsTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		0429043D181659C4001170EB /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 04290412181659C3001170EB /* Presidents */;
+			targetProxy = 0429043C181659C4001170EB /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		0429041F181659C4001170EB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04290420181659C4001170EB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		04290428181659C4001170EB /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04290429181659C4001170EB /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		04290441181659C4001170EB /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				04290442181659C4001170EB /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		04290446181659C4001170EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		04290447181659C4001170EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		04290449181659C4001170EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
+				INFOPLIST_FILE = "Presidents/Presidents-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		0429044A181659C4001170EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
+				INFOPLIST_FILE = "Presidents/Presidents-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		0429044C181659C4001170EB /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Presidents.app/Presidents";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "PresidentsTests/PresidentsTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		0429044D181659C4001170EB /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Presidents.app/Presidents";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Presidents/Presidents-Prefix.pch";
+				INFOPLIST_FILE = "PresidentsTests/PresidentsTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		0429040E181659C3001170EB /* Build configuration list for PBXProject "Presidents" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04290446181659C4001170EB /* Debug */,
+				04290447181659C4001170EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		04290448181659C4001170EB /* Build configuration list for PBXNativeTarget "Presidents" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				04290449181659C4001170EB /* Debug */,
+				0429044A181659C4001170EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		0429044B181659C4001170EB /* Build configuration list for PBXNativeTarget "PresidentsTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0429044C181659C4001170EB /* Debug */,
+				0429044D181659C4001170EB /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0429040B181659C3001170EB /* Project object */;
+}
