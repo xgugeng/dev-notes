@@ -12,3 +12,5 @@
 
 [5. Windows PE/COFF](5. Windows PE/COFF.md)
 
+[6. 可执行文件的装载与进程](6. 可执行文件的装载与进程.md)
+
