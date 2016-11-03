@@ -4,6 +4,10 @@
 
 [《程序员的自我修养》](perspective/self-load/README.md)
 
+## C++
+
+[《C++ Primer》](c++/cpp-primer/README.md)
+
 ## Linux
 
 [《Linux内核设计与实现》](linux/linux-kernel-development/README.md)
