@@ -34,3 +34,6 @@
 
 # OS
 .DS_Store
+
+# Redis
+dump.rdb
