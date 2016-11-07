@@ -10,7 +10,7 @@
 
 ## Linux
 
-[《现代操作系统》](modern-operating-systems/README.md)
+[《现代操作系统》](linux/modern-operating-systems/README.md)
 
 [《Linux内核设计与实现》](linux/linux-kernel-development/README.md)
 
