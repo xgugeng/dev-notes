@@ -1,6 +1,6 @@
 # 目录
 
-## 内功修炼
+## 内功
 
 [《程序员的自我修养》](perspective/self-load/README.md)
 
@@ -11,6 +11,8 @@
 ## Linux
 
 [《现代操作系统》](linux/modern-operating-systems/README.md)
+
+[《Linux程序设计》](linux/beginning-linux-programming/README.md)
 
 [《Linux内核设计与实现》](linux/linux-kernel-development/README.md)
 
@@ -24,7 +26,7 @@
 
 [《MongoDB权威指南》](sql/mongo/the-definitive-guide/README.md)
 
-[《Redis 设计与实现》](sql/redis/README.md)
+[《Redis设计与实现》](sql/redis/README.md)
 
 ## iOS
 

@@ -1,4 +1,4 @@
-[《Redis 设计与实现》](http://redisbook.com/)的读书笔记
+[《Redis设计与实现》](http://redisbook.com/)的读书笔记
 
 # 目录
 
