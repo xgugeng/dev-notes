@@ -1,6 +1,6 @@
 [《MongoDB权威指南》](https://book.douban.com/subject/6068947/)读书笔记。
 
-![](img/cover/cover.ipg)
+![](img/cover/cover.jpg)
 
 # 目录
 
