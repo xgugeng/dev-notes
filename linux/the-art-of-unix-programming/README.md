@@ -1,5 +1,7 @@
 [《UNIX编程艺术》](https://book.douban.com/subject/5387401/)读书笔记，原书作者：Eric S. Raymond。
 
+![](img/cover/cover.jpg)
+
 # 目录
 
 [1. 哲学](1. 哲学.md)
