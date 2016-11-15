@@ -1,5 +1,7 @@
 [《C++ Primer》](https://book.douban.com/subject/1767741/)读书笔记
 
+![](img/cover/cover.jpg)
+
 # 目录
 
 [1. 快速入门](1. 快速入门.md)
