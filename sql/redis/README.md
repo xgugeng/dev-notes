@@ -1,5 +1,7 @@
 [《Redis设计与实现》](http://redisbook.com/)的读书笔记
 
+![](img/cover/cover.jpg)
+
 # 目录
 
 ## 第一部分：数据结构和对象 
