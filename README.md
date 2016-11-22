@@ -8,6 +8,8 @@
 
 [《C++ Primer》](c++/cpp-primer/README.md)
 
+[《C专家编程》](c++/expert-c-programming/README.md)
+
 ## Linux
 
 [《现代操作系统》](linux/modern-operating-systems/README.md)

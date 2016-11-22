@@ -4,3 +4,4 @@ C++笔记
   
 [《C++ Primer》](cpp-primer/README.md)
 
+[《C专家编程》](expert-c-programming/README.md)
