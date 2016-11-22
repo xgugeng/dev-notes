@@ -6,11 +6,13 @@
 
 ## C++
 
-[《C++ Primer》](c++/cpp-primer/README.md)
+[《C++ Primer》](cpp/cpp-primer/README.md)
 
-[《C专家编程》](c++/expert-c-programming/README.md)
+[《C专家编程》](cpp/expert-c-programming/README.md)
 
-[《C++语言的设计和演化》](c++/the-design-and-evolution-of-c++/README.md)
+[《C++语言的设计和演化》](cpp/the-design-and-evolution-of-c++/README.md)
+
+[《C++语言99个常见编程错误》](cpp/cpp-gotchas/README.md)
 
 ## Linux
 
