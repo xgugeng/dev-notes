@@ -10,6 +10,8 @@
 
 [《C专家编程》](c++/expert-c-programming/README.md)
 
+[《C++语言的设计和演化》](c++/the-design-and-evolution-of-c++/README.md)
+
 ## Linux
 
 [《现代操作系统》](linux/modern-operating-systems/README.md)
