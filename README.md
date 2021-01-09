@@ -15,6 +15,8 @@
 
 [程序员修炼之道](growth/the-pragmatic-programmer/README.md)
 
+[程序员的思维修炼](growth/pragmatic-thinking-and-learning/README.md)
+
 [程序员的自我修养](perspective/self-load/README.md)
 
 [性能之巅](perspective/systems-performance/README.md)
@@ -94,4 +96,3 @@
 # System Design
 
 [Design Data Intensive Applications](system-design/designing-data-intensive-applications/README.md)
-
