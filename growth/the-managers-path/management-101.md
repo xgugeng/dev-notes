@@ -5,6 +5,11 @@
     - [One-on-One Meetings](#one-on-one-meetings)
     - [Feedback and Workplace Guidance](#feedback-and-workplace-guidance)
     - [Training and Career Growth](#training-and-career-growth)
+  - [How to Be Managed](#how-to-be-managed)
+    - [Spend Time Thinking About What You Want](#spend-time-thinking-about-what-you-want)
+    - [You Are Responsible for Yourself](#you-are-responsible-for-yourself)
+    - [Give Your Manager a Break](#give-your-manager-a-break)
+    - [Choose Your Managers Wisely](#choose-your-managers-wisely)
 
 ## What to Expect from a Manager
 
@@ -37,3 +42,34 @@ When it comes to your role at the company, your manager needs to be your number 
 Your manager should be the person who shows you the larger picture of how your work fits into the team's goals, and helps you feel a sense of purpose in the day-to-day work.
 
 ### Training and Career Growth
+
+Your manager may hold sme responsibility for helping you find training and other resources for career growth. But *expect that you are responsible, for the most part.*
+
+When you are interested in being promoted, it's very important to ask your manager for specific areas to focus on in order to get that promotion.
+
+## How to Be Managed
+
+**Developing a sense of ownership and authority for your own experiences at work, and not relying on your manager to set the entire tone for your relationship**, is and important step in owning your career and workplace happiness.
+
+### Spend Time Thinking About What You Want
+
+Your manager cannot tell you what make you happy. 
+
+Use your manager to discover what's possible where you are, but look to understand yourself in order to figure out where you want to go next.
+
+### You Are Responsible for Yourself
+
+Knowing yourself is step one, the next step is going after what you want.
+
+You will not get everything you ask for, and asking is not usually a fun or comfortable experience. However it's the fastest way forward.
+
+### Give Your Manager a Break
+
+Your manager will be stressed out sometimes, she is not perfect. It's not to do whatever it takes to make you happy all the time.
+
+Especially as you become more senior, your manager expects you to **bring solutions, not problems.**
+
+### Choose Your Managers Wisely
+
+Your manager can make a **HUGE** difference in your career. So as much as you can, consider not the job, the company, and the pay, but also the manager. 
+

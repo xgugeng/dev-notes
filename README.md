@@ -17,7 +17,7 @@
 
 [程序员的思维修炼](growth/pragmatic-thinking-and-learning/README.md)
 
-[The Manager's Path](growth/the-managers)
+[The Manager's Path](growth/the-managers-path/README.md)
 
 # 编码
 
