@@ -1,4 +1,4 @@
-- [修炼](#修炼)
+- [Growth Mindset](#growth-mindset)
 - [编码](#编码)
 - [C++](#c)
 - [Python](#python)
@@ -11,21 +11,21 @@
 - [Spark](#spark)
 - [System Design](#system-design)
 
-# 修炼
+# Growth Mindset
 
 [程序员修炼之道](growth/the-pragmatic-programmer/README.md)
 
 [程序员的思维修炼](growth/pragmatic-thinking-and-learning/README.md)
 
-[程序员的自我修养](perspective/self-load/README.md)
-
-[性能之巅](perspective/systems-performance/README.md)
+[The Manager's Path](growth/the-managers)
 
 # 编码
 
 [编写可读代码的艺术](programming/the-art-of-readable-code/README.md)
 
 [重构：改善既有代码的设计](programming/refactoring/README.md)
+
+[程序员的自我修养](perspective/self-load/README.md)
 
 # C++
 
@@ -96,3 +96,5 @@
 # System Design
 
 [Design Data Intensive Applications](system-design/designing-data-intensive-applications/README.md)
+
+[性能之巅](perspective/systems-performance/README.md)
