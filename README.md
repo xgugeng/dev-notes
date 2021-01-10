@@ -1,17 +1,34 @@
-- [Growth Mindset](#growth-mindset)
-- [编码](#编码)
-- [C++](#c)
-- [Python](#python)
-- [Java](#java)
-- [Linux](#linux)
-- [网络](#网络)
-- [数据库](#数据库)
-- [Vim](#vim)
-- [Elasticsearch](#elasticsearch)
-- [Spark](#spark)
-- [System Design](#system-design)
+# 开发进阶笔记
 
-# Growth Mindset
+- [开发进阶笔记](#开发进阶笔记)
+  - [个人信息处理工作流](#个人信息处理工作流)
+  - [目录](#目录)
+    - [Growth Mindset](#growth-mindset)
+    - [编码](#编码)
+    - [C++](#c)
+    - [Python](#python)
+    - [Java](#java)
+    - [Linux](#linux)
+    - [网络](#网络)
+    - [数据库](#数据库)
+    - [Vim](#vim)
+    - [Elasticsearch](#elasticsearch)
+    - [Spark](#spark)
+    - [System Design](#system-design)
+
+## 个人信息处理工作流
+
+![info-process-workflow](info-process-workflow.png)
+
+1. 输入源以书为主，网上的信息源为辅
+2. 读书主要在 Kindle 上进行，遇到重点先高亮，然后使用 VS Code 或 OneNote 整理
+3. 网上的碎片信息经过筛选后，全部放进 [Pocket](https://getpocket.com/) 阅读
+4. 参照 [卡片盒笔记法](https://sspai.com/post/60802) 用自己的语言提取知识点，工具是 [obsidian](https://obsidian.md/) 
+5. obsidian 中有值得分享的内容，放到 [Github Pages](https://hellokangning.github.io/) 上
+
+## 目录
+
+### Growth Mindset
 
 [程序员修炼之道](growth/the-pragmatic-programmer/README.md)
 
@@ -19,7 +36,7 @@
 
 [The Manager's Path](growth/the-managers-path/README.md)
 
-# 编码
+### 编码
 
 [编写可读代码的艺术](programming/the-art-of-readable-code/README.md)
 
@@ -27,7 +44,7 @@
 
 [程序员的自我修养](perspective/self-load/README.md)
 
-# C++
+### C++
 
 [C++ Primer](cpp/cpp-primer/README.md)
 
@@ -39,15 +56,15 @@
 
 [C陷阱与缺陷](cpp/c-traps-and-pitfalls/README.md)
 
-# Python
+### Python
 
 [Python参考手册](python/essential-reference/README.md)
 
-# Java
+### Java
 
 [Java编程思想](java/thinking-in-java/README.md)
 
-# Linux
+### Linux
 
 [现代操作系统](linux/modern-operating-systems/README.md)
 
@@ -57,27 +74,27 @@
 
 [UNIX编程艺术](linux/the-art-of-unix-programming/README.md)
 
-# 网络
+### 网络
 
 [TCP/IP详解 卷1：协议](network/tcpip/README.md)
 
-# 数据库
+### 数据库
 
-[MongoDB权威指南](sql/mongo/the-definitive-guide/README.md)
+[MongoDB权威指南](database/mongo/the-definitive-guide/README.md)
 
-[Redis设计与实现](sql/redis/README.md)
+[Redis设计与实现](database/redis/README.md)
 
-[Apache HBase ™ Reference Guide](sql/hbase/reference-guide/README.md)
+[Apache HBase ™ Reference Guide](database/hbase/reference-guide/README.md)
 
-[HBase权威指南](sql/hbase/the-definitive-guide/README.md)
+[HBase权威指南](database/hbase/the-definitive-guide/README.md)
 
-# Vim
+### Vim
 
 [学习vi和Vim编辑器](vim/learning-the-vi-and-vim-editors/README.md)
 
 [Vim实用技巧](vim/practical-vim/README.md)
 
-# Elasticsearch
+### Elasticsearch
 
 [深入理解Elasticsearch](es/mastering-es/README.md)
 
@@ -85,7 +102,7 @@
 
 [滥竽充数：我的博客](es/my-footprint/README.md)
 
-# Spark
+### Spark
 
 [Spark快速大数据分析](spark/learning-spark/README.md)
 
@@ -93,7 +110,7 @@
 
 [High Performance Spark](spark/high-performance-spark/README.md)
 
-# System Design
+### System Design
 
 [Design Data Intensive Applications](system-design/designing-data-intensive-applications/README.md)
 
