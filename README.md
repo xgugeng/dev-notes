@@ -97,4 +97,4 @@
 
 [Design Data Intensive Applications](system-design/designing-data-intensive-applications/README.md)
 
-[性能之巅](perspective/systems-performance/README.md)
+[性能之巅](system-design/systems-performance/README.md)
