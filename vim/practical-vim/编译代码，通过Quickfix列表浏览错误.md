@@ -1,11 +1,14 @@
-- [技巧107 浏览 Quickfix 列表](#技巧107-浏览-quickfix-列表)
+# 编译代码，通过 Quickfix 列表浏览错误
 
+- [编译代码，通过 Quickfix 列表浏览错误](#编译代码通过-quickfix-列表浏览错误)
+  - [技巧107 浏览 Quickfix 列表](#技巧107-浏览-quickfix-列表)
 
 Quickfix 列表会维护一组由文件名、行号、列号（可选）与消息组成的注释定位信息。
 
-# 技巧107 浏览 Quickfix 列表
+## 技巧107 浏览 Quickfix 列表
 
 浏览 Quickfix 列表的命令：
+
 - `:cnext` 跳转到下一项
 - `:cprev` 跳转到上一项
 - `:cfirst` 跳转到第一项
