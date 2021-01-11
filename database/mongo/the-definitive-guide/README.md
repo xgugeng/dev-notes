@@ -1,16 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# MongoDB权威指南
 
-- [目录](#%E7%9B%AE%E5%BD%95)
+[豆瓣](https://book.douban.com/subject/6068947/)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+![cover](https://img9.doubanio.com/view/subject/l/public/s4692124.jpg)
 
-[《MongoDB权威指南》](https://book.douban.com/subject/6068947/)读书笔记。
-
-![](img/cover/cover.jpg)
-
-# 目录
+## 目录
 
 [一，简介](一，简介.md)
 

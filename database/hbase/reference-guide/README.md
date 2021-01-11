@@ -1,14 +1,8 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# Apache HBase ™ Reference Guide
 
-- [目录](#%E7%9B%AE%E5%BD%95)
+[Apache HBase](http://hbase.apache.org/book.html#_preface)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-[《Apache HBase ™ Reference Guide》](http://hbase.apache.org/book.html#_preface)
-
-# 目录
+## 目录
 
 [Getting Started](getting-started.md)
 
@@ -22,7 +16,7 @@
 
 [Data Model](data-model.md)
 
-[HBase and Schema Design](shema-design.md)
+[HBase and Schema Design](schema-design.md)
 
 [RegionServer Sizing Rules of Thumb](regionserver-sizing.md)
 

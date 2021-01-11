@@ -1,16 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# C陷阱与缺陷
 
-- [目录](#%E7%9B%AE%E5%BD%95)
+[豆瓣](https://book.douban.com/subject/1102097/)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+![cover](https://img9.doubanio.com/view/subject/l/public/s1943489.jpg)
 
-[《C陷阱与缺陷》](https://book.douban.com/subject/1102097/)读书笔记。
-
-![](img/cover.jpg)
-
-# 目录
+## 目录
 
 [词法陷阱](词法陷阱.md)
 

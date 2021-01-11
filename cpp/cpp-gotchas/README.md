@@ -1,16 +1,10 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+# C++语言99个常见编程错误
 
-- [目录](#%E7%9B%AE%E5%BD%95)
+[豆瓣](https://book.douban.com/subject/3767699/)
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+![cover](https://img9.doubanio.com/view/subject/l/public/s3927269.~~jpg~~)
 
-[《C++语言99个常见编程错误》](https://book.douban.com/subject/3767699/)读书笔记。
-
-![](img/cover.jpg)
-
-# 目录
+## 目录
 
 [1. 基础问题](基础问题.md)
 
