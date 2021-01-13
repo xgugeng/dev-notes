@@ -1,22 +1,23 @@
 # 开发进阶笔记
 
 - [开发进阶笔记](#开发进阶笔记)
-  - [个人信息处理工作流](#个人信息处理工作流)
+  - [我的信息处理工作流](#我的信息处理工作流)
   - [目录](#目录)
-    - [Growth Mindset](#growth-mindset)
-    - [编码](#编码)
+    - [Coding Practices](#coding-practices)
+    - [Leadership](#leadership)
+    - [Refactoring](#refactoring)
     - [C++](#c)
     - [Python](#python)
     - [Java](#java)
     - [Linux](#linux)
-    - [网络](#网络)
-    - [数据库](#数据库)
+    - [Network](#network)
+    - [Database](#database)
     - [Vim](#vim)
     - [Elasticsearch](#elasticsearch)
     - [Spark](#spark)
     - [System Design](#system-design)
 
-## 个人信息处理工作流
+## 我的信息处理工作流
 
 ![info-process-workflow](info-process-workflow.png)
 
@@ -28,19 +29,23 @@
 
 ## 目录
 
-### Growth Mindset
+### Coding Practices
 
-[程序员修炼之道](growth/the-pragmatic-programmer/README.md)
+[程序员修炼之道](coding-practices/the-pragmatic-programmer/README.md)
 
-[程序员的思维修炼](growth/pragmatic-thinking-and-learning/README.md)
+[程序员的思维修炼](coding-practices/pragmatic-thinking-and-learning/README.md)
 
-[The Manager's Path](growth/the-managers-path/README.md)
+[程序员的职业素养](coding-practices/the-clean-coder/README.md)
 
-### 编码
+[编写可读代码的艺术](coding-practices/the-art-of-readable-code/README.md)
 
-[编写可读代码的艺术](programming/the-art-of-readable-code/README.md)
+### Leadership
 
-[重构：改善既有代码的设计](programming/refactoring/README.md)
+[The Manager's Path](leadership/the-managers-path/README.md)
+
+### Refactoring
+
+[重构：改善既有代码的设计](refactoring/README.md)
 
 [程序员的自我修养](perspective/self-load/README.md)
 
@@ -74,11 +79,11 @@
 
 [UNIX编程艺术](linux/the-art-of-unix-programming/README.md)
 
-### 网络
+### Network
 
 [TCP/IP详解 卷1：协议](network/tcpip/README.md)
 
-### 数据库
+### Database
 
 [MongoDB权威指南](database/mongo/the-definitive-guide/README.md)
 
