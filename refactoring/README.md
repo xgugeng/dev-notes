@@ -1,7 +1,3 @@
-豆瓣：[重构：改善既有代码的设计](https://book.douban.com/subject/4262627/)
-
-![](https://img3.doubanio.com/view/subject/l/public/s4157180.jpg)
-
 # 目录
 
 1. [重构原则](重构原则.md)

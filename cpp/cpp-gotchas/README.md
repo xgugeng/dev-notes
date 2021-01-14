@@ -1,10 +1,3 @@
-# C++语言99个常见编程错误
-
-[豆瓣](https://book.douban.com/subject/3767699/)
-
-![cover](https://img9.doubanio.com/view/subject/l/public/s3927269.~~jpg~~)
-
-## 目录
 
 [1. 基础问题](基础问题.md)
 
