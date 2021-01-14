@@ -24,8 +24,8 @@
 1. 输入源以书为主，网上的信息源为辅
 2. 读书主要在 Kindle 上进行，遇到重点先高亮，然后使用 VS Code 或 OneNote 整理
 3. 网上的碎片信息经过筛选后，全部放进 [Pocket](https://getpocket.com/) 阅读
-4. 参照 [卡片盒笔记法](https://sspai.com/post/60802) 用自己的语言提取知识点，工具是 [obsidian](https://obsidian.md/) 
-5. obsidian 中有值得分享的内容，放到 [Github Pages](https://hellokangning.github.io/) 上
+4. 参照 [卡片盒笔记法](https://sspai.com/post/60802) 用自己的语言提取知识点，工具是 [Obsidian](https://obsidian.md/) 
+5. Obsidian 中有值得分享的内容，放到 [Github Pages](https://hellokangning.github.io/) 上
 
 ## 目录
 
