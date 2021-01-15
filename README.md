@@ -45,7 +45,7 @@
 
 ### Refactoring
 
-[重构：改善既有代码的设计](refactoring/README.md)
+[重构：改善既有代码的设计](Refactoring.md)
 
 [程序员的自我修养](perspective/self-load/README.md)
 
